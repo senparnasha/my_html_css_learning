@@ -1,0 +1,199 @@
+body{
+    background-color: black;
+    border-top: 2px solid white;
+    
+}
+.body-UK-logo{
+    height:30px;
+    width:31px;
+    margin-left: 170px;
+    margin-top: 5px;
+}
+.body-heading-box{
+    color: white;
+    margin-left: 208px;
+    margin-top: -30px;
+    font-size: 17px;
+    font-family: arial;
+    font-weight:bold ;
+}
+
+
+.first-big-white-box{
+    background-color: rgb(235, 242, 245);
+    height: 100vh;
+  background-size: cover;
+  background-position: center;
+   border-top: 5px solid rgb(37, 167, 228);
+   margin-top: 15px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.left-side-text-box{
+    margin-top: 10px;
+    margin-left: 170px;
+}
+.left-black-text-box{
+    font-size: 13px;
+    font-family: Arial;
+    font-weight: bold;
+}
+.left-blue-text-box{
+    font-size: 12px;
+    font-family: Arial;
+    color: rgb(16, 140, 197);
+    padding-top: 4px;
+   border-bottom:1px solid rgb(35, 167, 243);
+   font-weight: 600;
+}
+
+
+
+.right-side-text-box{
+    margin-top: 10px;
+    margin-right: 120px;
+}
+.right-blue-text-box{
+    font-size: 12px;
+    font-family: Arial;
+    font-weight: 600;
+    color: rgb(16, 140, 197);
+    padding-top: 4px;
+   border-bottom:1px solid rgb(35, 143, 245);
+}
+
+.small-blue-box{
+    height:36vh;
+    background-color: rgb(34, 118, 173);
+    margin-top: 8px;
+    background-size: cover;
+    background-position: center;
+   
+}
+.big-heading-text-box{
+    font-size: 30px;
+    font-family:sans-serif;
+    font-weight: 600;
+    padding-top: 30px;
+    padding-left: 170px;
+    color: white;
+
+}
+.small-text-box{
+    font-size: 12px;
+    font-family:sans-serif;
+    padding-top: 13px;
+    padding-left: 170px;
+    color: rgb(218, 228, 236);
+}
+.medium-text-box{
+    font-size: 13px;
+    font-family:sans-serif;
+    font-weight: 600;
+    padding-top: 6px;
+    padding-left: 170px;
+    color: rgb(248, 250, 252);
+    letter-spacing: 1.3px;
+}
+.search-box{
+    padding-left: 170px;
+    padding-top: 20px;
+}
+.search-box-style{
+    width: 400px;
+    height:17px;
+}
+
+.search-logo-box{
+   margin-left: 570px;
+   margin-top: -22px;
+   
+}
+.search-logo-box-style{
+    height: 21px;
+    width: 20px;
+    padding-bottom: 20px;
+}
+.black-medium-box{
+    height: 200px;
+    width: 290px;
+    background-color: black;
+    float: right;
+    margin-right: 230px;
+    margin-top: -152px;
+}
+.heaading-in-black-box{
+    color: white;
+    font-size: 19px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.black-box-text-style{
+    color: white;
+    margin-top: 25px;
+    margin-left: 20px;
+    
+}
+.transition-box{
+    padding-top: 5px;
+   
+    
+}
+.find-a-job-box{
+    padding-top: 5px;
+   
+}
+.renew-vehicle-box{
+    padding-top: 5px;
+    
+}
+.theory-text-box{
+    padding-top: 5px;
+   
+}
+.pesonal-tax-acn-box{
+    padding-top: 5px;
+   
+}
+.container-1{
+    height:335px;
+    width: 330px;
+    border:2px solid rgb(235, 242, 245);
+    margin-left: 100px;
+}
+.head{
+    padding-top: 10px;
+    padding-left: 15px;
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgb(29, 101, 194);
+}
+.text{
+    padding-top: 5px;
+    padding-left: 15px;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+.container-2{
+    height:335px;
+    width: 330px;
+    border:2px solid rgb(235, 242, 245);
+    /* margin-left: 300px; */
+}
+.container-3{
+    height:335px;
+    width: 330px;
+    border:2px solid rgb(235, 242, 245);
+    /* margin-left: 300px; */
+}
+.container{
+    
+   display: grid;
+   grid-template-columns: repeat(3,1fr);
+   margin-left: 60px;
+   margin-top: 2px;
+}
+
