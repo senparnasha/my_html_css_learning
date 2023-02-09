@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(15, 15, 165);
+    padding: 40px 0;
+}
+header{
+background-color: rgb(238, 241, 245);
+height: 400px;
+width: 250px;
+margin:auto;
+border: 1px solid black;
+padding: 10px 25px;
+border-radius: 10px;
+}
+.header-container{
+    color: rgb(52, 56, 59);
+    font-family: 'Poppins';
+    font-weight: 800px;
+    font-size: 30px;
+    line-height: 1.5;
+    text-align: center;
+    padding: 20px 0;
+
+}
+section{
+    background-color: rgb(241, 245, 248);
+    padding: 8px 0;
+    
+}
+.username{
+    display: flex;
+    line-height: 1.5;
+    height: 35px;
+    width: 200px;
+    margin: auto;
+    border: 2px solid rgb(187, 179, 179);
+    border-radius: 15px;
+    color: rgb(139, 123, 123);
+
+
+
+
+}
+
+button{
+    height: 35px;
+    width: 200px;
+    margin: auto;
+    background-color: rgb(202, 111, 26);
+    text-align: center;
+    color: aliceblue;
+    font-weight: 500;
+    border-radius: 20px;
+    align-items: center;
+   font-size: 20px;
+   cursor: pointer;
+}
+.password{
+    display: flex;
+    line-height: 1.5;
+    height: 35px;
+    width: 200px;
+    margin: auto;
+    border: 2px solid rgb(207, 200, 200);
+    border-radius: 15px;
+    color: rgb(139, 123, 123);
+    
+
+
+}
+.icon{
+    height:22px;
+    width:20px;
+    padding: 1px 2px;
+    
+}
+
+
+.btn {
+    display: flex;
+    
+}
+
+p{
+    line-height: 1.8;
+    text-align: center;
+   padding-top: 20px 0;
+   color: rgb(88, 82, 82);
+
+}
+footer{
+    display: flex;
+    line-height: 1.9;
+  margin-top: 70px;
+}

@@ -1,0 +1,119 @@
+   body {
+    font-family: Arial;
+    background-image: linear-gradient(to right,rgb(243, 69, 214),rgb(248, 37, 142));
+   }
+
+   .white-big-box {
+       height: 340px;
+       width: 280px;
+       margin-left: auto;
+       margin-right: auto;
+       background-color: aliceblue;
+       margin-top: 40px;
+   }
+
+   .login-box {
+       font-size: 22px;
+       font-family: Verdana;
+       font-weight: 820;
+       text-align: center;
+       padding-top: 23px;
+   }
+
+   .btn{
+    display: flex;
+    margin-top: 25px;
+   justify-content: center;
+   cursor: pointer;
+
+   }
+   
+   .btn-1{
+    height: 25px;
+    width: 110px;
+    border: 1px solid rgb(199, 192, 192);
+    text-align: center;
+    padding-top: 5px;
+    /* background-color: rgb(247, 41, 110); */
+    border-radius: 4px;
+    color: aliceblue;
+    font-family: verdana;
+    font-weight: 550;
+    font-size: 12px;
+    background-image: linear-gradient(to right,rgb(204, 9, 204),rgb(248, 37, 142));
+   }
+   .btn-1:hover{
+    background-image: linear-gradient(to right,rgb(218, 20, 119),rgb(218, 133, 179));
+   }
+   .btn-2{
+    height: 25px;
+    width: 110px;
+    border: 1px solid rgb(196, 185, 185);
+    text-align: center;
+    padding-top: 5px;
+    border-radius: 4px;
+    font-family:verdana;
+    font-weight: 550;
+    font-size: 12px;
+   }
+   .btn-2:hover{
+    background-color: rgb(163, 152, 152);
+   }
+   .input-boxes{
+    margin-top: 2px;
+    padding-left: 25px;
+    
+   }
+   .input-box-style{
+   height: 31px;
+   width: 210px;
+   border-radius: 4px;
+   margin-top: 16px;
+   border: 1px solid rgb(196, 185, 185);
+   padding-left: 12px;
+   font-family:Verdana;
+    font-weight: 548;
+    font-size: 12px;
+    
+  }
+  .forget-psw-box{
+    font-size: 12px;
+    font-family:verdana;
+    font-weight: 550;
+    padding-left: 27px;
+    padding-top: 3px;
+    color: rgb(238, 41, 90);
+  }
+   .btn-3{
+    height: 28px;
+    width: 225px;
+    border: 1px solid rgb(199, 192, 192);
+    text-align: center;
+    padding-top: 8px;
+    /* background-color: rgb(247, 41, 110); */
+    border-radius: 4px;
+    color: aliceblue;
+    font-family: verdana;
+    font-weight: 550;
+    font-size: 12px;
+    background-image: linear-gradient(to right,rgb(204, 9, 204),rgb(248, 37, 142));
+    margin-left: 25px;
+    margin-top: 12px;
+    cursor: pointer;
+   }
+   .btn-3:hover{
+    background-image: linear-gradient(to right,rgb(218, 20, 119),rgb(218, 133, 179));
+   }
+
+   .not-a-member-box{
+    padding-top: 25px;
+    padding-left: 60px;
+    font-weight: 500;
+    font-size: 14px;
+   }
+   .signup-box{
+    color: deeppink;
+    text-decoration: none;
+   }
+   
+   

@@ -1,0 +1,102 @@
+body{
+background-color: rgb(226, 226, 226);
+}
+
+.big-blue-white-box-1{
+    height: 270px;
+    width: 290px;
+    border:1px solid rgb(245, 241, 241);
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right:auto;
+    border-radius: 10px 10px 0 0;
+    background-image: linear-gradient(rgb(66, 66, 252),rgb(111, 67, 151));
+    box-shadow: 3px 3px 15px rgb(145, 143, 143);
+}
+
+.home-icon-logo-1{
+    height:70px;
+    width:70px;
+    margin-top: 85px;
+    margin-left: 110px;
+}
+.big-blue-white-box-2{
+    height: 260px;
+    width: 288px;
+    border:2px solid rgb(247, 240, 240);
+    /* margin-top: 1px; */
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    box-shadow: 3px 3px 15px rgb(163, 160, 160);
+    border-radius: 0 0 10px 10px;
+}
+.small-box{
+    height: 220px;
+    width:250px;
+    border:1px solid rgb(250, 247, 247);
+    margin-left: 17px;
+    margin-top: -30px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 3px 3px 15px rgb(207, 201, 201);
+}
+.login-box{
+    font-size: 13px;
+    font-family: sans-serif;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 10px;
+    color: rgb(117, 112, 112);
+    letter-spacing: 1.8;
+}
+.email-text-box{
+    font-size: 10px;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-left: 12px;
+    margin-top: 20px;
+    color: blue;
+}
+.input-box{
+    margin-top: 15px;
+    margin-left: 10px;
+}
+.input-box-style{
+    height:18px;
+    width:217px;
+    border: 2px solid rgb(189, 180, 180);
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+.psw-text-box{
+    font-size: 10px;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-left: 12px;
+    margin-top: 25px;
+    color: blue;
+}
+.btn{
+    margin-top: 35px;
+    margin-left: 45px;
+    height:22px;
+    width:170px;
+    border: 2px solid rgb(68, 68, 236);
+    text-align: center;
+    border-radius: 22px;
+    padding-top: 10px;
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: 600;
+    background-color: rgb(70, 70, 236);
+    color: white;
+}
+.Forgot-psw-text-box{
+    font-size: 10px;
+    font-family: arial;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-left: 100px;
+}

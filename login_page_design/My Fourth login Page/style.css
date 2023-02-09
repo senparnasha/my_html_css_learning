@@ -1,0 +1,154 @@
+body {
+    background-color: rgb(105, 192, 226);
+}
+
+.big-white-box {
+    height: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 650px;
+    background-color: rgb(105, 192, 226);
+    display: flex;
+    justify-content: center;
+   
+margin-top:60px;
+}
+
+.white-box-1 {
+    height: 370px;
+    width: 270px;
+    margin-left: 50px;
+    margin-right: auto;
+    margin-top: 50px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.signup-box {
+    font-size: 15px;
+    font-family: arial;
+    font-weight: 600;
+    margin-top: 26px;
+    margin-left: 28px;
+    color: rgb(90, 87, 87);
+}
+
+.text-email-1 {
+    margin-top: 15px;
+    margin-left: 30px;
+    font-size: 12px;
+    font-family: arial;
+    font-weight: 600;
+    color: rgb(90, 87, 87);
+}
+
+.input-box-style {
+    margin-top: 2px;
+    margin-left: 30px;
+    border: 1px solid rgb(199, 186, 186);
+    height: 25px;
+    width: 190px;
+    border-radius: 4px;
+}
+
+.text-Psw-1 {
+    margin-top: 18px;
+    margin-left: 30px;
+    font-size: 12px;
+    font-family: arial;
+    font-weight: 600;
+    color: rgb(90, 87, 87);
+}
+
+.btn {
+    height: 25px;
+    width: 195px;
+    border-radius: 5px;
+    border: 1px solid rgb(199, 186, 186);
+    margin-top: 20px;
+    margin-left: 30px;
+    text-align: center;
+    padding-top: 7px;
+    font-size: 13px;
+    font-family: arial;
+    font-weight: 500;
+    background-color: rgb(245, 67, 96);
+    color: rgb(235, 219, 219);
+}
+.already-a-user-box{
+    margin-top: 80px;
+    margin-left: 60px;
+    font-size: 12px;
+    font-family: arial;
+    font-weight: 600;
+    color:rgb(70, 66, 66);
+}
+
+.user-login-box{
+    color:rgb(70, 66, 66);
+}
+
+
+
+
+
+
+.white-box-2 {
+    height: 380px;
+    width: 270px;
+    /* margin-left: -10px; */
+    margin-right: auto;
+    margin-top: 50px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.login-box {
+    font-size: 15px;
+    font-family: arial;
+    font-weight: 600;
+    margin-top: 26px;
+    margin-left: 28px;
+    color: rgb(90, 87, 87);
+}
+.check-box{
+    margin-top: 4px;
+    margin-left: 28px;
+    font-size: 14px;
+}
+.btn-login{
+    height: 25px;
+    width: 200px;
+    border-radius: 5px;
+    border: 1px solid rgb(199, 186, 186);
+    margin-top: 14px;
+    margin-left: 30px;
+    text-align: center;
+    padding-top: 7px;
+    font-size: 13px;
+    font-family: arial;
+    font-weight: 500;
+    background-color: rgb(245, 67, 96);
+    color: rgb(235, 219, 219);
+}
+.forgot-psw-text-box{
+    margin-top: 5px;
+    margin-left: 130px;
+    font-size: 12px;
+    font-family: arial;
+    font-weight: 600;
+    color: rgb(90, 87, 87);
+}
+.need-an-acn-box{
+    margin-top: 85px;
+    margin-left: 60px;
+    font-size: 12px;
+    font-family: arial;
+    font-weight: 600;
+    color:rgb(70, 66, 66);
+}
+
+.acn-signup-box{
+    color:rgb(70, 66, 66);
+}
+
